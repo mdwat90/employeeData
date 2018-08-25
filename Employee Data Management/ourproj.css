@@ -1,0 +1,35 @@
+
+
+.form-group, .btn, h1, p {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-color: rgba(42, 73, 85, 0.705);
+    background-image: linear-gradient( rgba(42, 73, 85, 0.808), rgba(255, 255, 255, 0.637));
+    color: rgb(245, 245, 241);
+    font-family: 'Sanchez', serif;
+    text-align: center;
+}
+
+.textinputs {
+    
+font-family: 'Sanchez', serif;
+}
+
+body  {
+    background-image: url("background-2462431_1920.jpg");
+    background-color: #cccccc;
+    padding: 50px;
+}
+
+.textinputs {
+ background-color: rgba(245, 245, 245, 0.74);
+}
+
+.btn {
+    background-color: green;
+}
